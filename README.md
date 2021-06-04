@@ -1,11 +1,5 @@
 #  Lung Health System
 
-[System Overview](## 1. System Overview)
-
-[Design and Function](## 2. Design and Function)
-
-[Deep Learning Model](## 3. Deep Learning Model)
-
 ![overview](./picture/overview.png)
 
 
@@ -20,33 +14,33 @@ We build a **lung health system** with functions including **registration, login
 
 ### 1.2 Installation
 
-> 1.Client:
+1.Client:
 
-> >(1)  Install `npm`
+(1)  Install `npm`
 
-> > (2)  Install `Vue/Cli 2`
+(2)  Install `Vue/Cli 2`
 
-> >(3)  Enter client folder and run `npm install` to install all dependency
+(3)  Enter client folder and run `npm install` to install all dependency
 
-> >(4)  Run `npm run dev` in client folder to enter developer environment
+(4)  Run `npm run dev` in client folder to enter developer environment
 
  
 
-> 2.Server:
+2.Server:
 
-> > (1)  Install python3 and build a virtual environment
+(1)  Install python3 and build a virtual environment
 
-> > (2)  Enter server folder and run `pip install -r requirement.txt` to install all dependency
+(2)  Enter server folder and run `pip install -r requirement.txt` to install all dependency
 
-> >(3)  Install `mysql 8.0` and create a database name `lhsdb` using utf8mb4 encoding
+(3)  Install `mysql 8.0` and create a database name `lhsdb` using utf8mb4 encoding
 
-> > (4)  Run `python manage.py db init` in server folder to initialize database
+(4)  Run `python manage.py db init` in server folder to initialize database
 
-> > (5)  Run `python manage.py db migrate` in server folder to migrate database
+(5)  Run `python manage.py db migrate` in server folder to migrate database
 
-> > (6)  Run `python manage.py db upgrade` in server folder to upgrade database
+(6)  Run `python manage.py db upgrade` in server folder to upgrade database
 
-> >(7)  Run `python run.py` in server folder to run the system
+(7)  Run `python run.py` in server folder to run the system
 
 
 
