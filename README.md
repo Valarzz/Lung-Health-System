@@ -1,5 +1,9 @@
 #  Lung Health System
 
+Website: http://8.140.99.130:8081/
+
+Team member: Zongxuan Shi, David Zhang, Hao Zhang, Renhao Zhang
+
 ![overview](./picture/overview.png)
 
 
