@@ -50,7 +50,7 @@ We build a **lung health system** with functions including **registration, login
 
 We use the **flask-sqlalchemy** package, which uses ORM model to simplify our work to create and manipulate our database. The E-R diagram corresponding to our database is as follows:
 
-![E-R diagram](./picture/E-R diagram.png)
+![E-R diagram](./picture/E-R.png)
 
 ### 2.2 Local Information and Security
 
