@@ -68,6 +68,10 @@ Our system uses **Websocket** to realize the user online consultation function, 
 
 ![talk](./picture/talk.jpg)
 
+### 2.5 Load Test
+
+![loadtest](./picture/loadtest.png)
+
 ## 3. Deep Learning Model
 
 ### 3.1 Dataset
